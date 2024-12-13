@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\controller\ClientController.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\controller\ReservationController.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\controller\RoomController.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\cors\WebConfig.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\HotelrestApplication.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\model\Client.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\model\Reservation.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\model\Room.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\repository\ClientRepository.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\repository\ReservationRepository.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\repository\RoomRepository.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\service\ClientService.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\service\ReservationService.java
+C:\Users\HP\Desktop\hotelrest\src\main\java\org\example\hotelrest\service\RoomService.java

@@ -1,0 +1,13 @@
+org\example\hotelrest\controller\ClientController.class
+org\example\hotelrest\repository\ClientRepository.class
+org\example\hotelrest\model\Room.class
+org\example\hotelrest\controller\RoomController.class
+org\example\hotelrest\HotelrestApplication.class
+org\example\hotelrest\service\RoomService.class
+org\example\hotelrest\service\ReservationService.class
+org\example\hotelrest\repository\ReservationRepository.class
+org\example\hotelrest\model\Client.class
+org\example\hotelrest\model\Reservation.class
+org\example\hotelrest\repository\RoomRepository.class
+org\example\hotelrest\controller\ReservationController.class
+org\example\hotelrest\service\ClientService.class
