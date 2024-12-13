@@ -1,0 +1,19 @@
+{
+  "name": "hotel_graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.11.2",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0",
+    "mysql2": "^3.11.5"
+  },
+  "description": "",
+  "type": "module"
+}
